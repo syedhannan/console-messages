@@ -1,10 +1,13 @@
 # console-messages
 A simple way to generate colored console.log() messages in terminal for success and error scenarios. 
 
+
+## Install
 ```sh
 npm install console-messages
 ```
 
+## Usage
 ```js
 const { success, error } = require("console-messages");
 
