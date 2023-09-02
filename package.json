@@ -1,7 +1,7 @@
 {
   "name": "console-messages",
-  "version": "1.0.0",
-  "description": "To generate colored text in console with simple syntax",
+  "version": "1.0.1",
+  "description": "To generate colored text for console.log in terminal with simple syntax",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
